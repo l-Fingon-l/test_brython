@@ -1,2 +1,2 @@
 def stuff():
-    return 'bla-bla-bla'
+    return 'bla-Bla-bla'
